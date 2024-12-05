@@ -54,24 +54,24 @@
             <!--EXAMPLE OF GITHUB LINK-->
             <!--<a href="http://github.com/yourUserName/yourRepoName">Github</a><br>-->
 
-            <img src="../img/avatar.png" class="img-fluid project-img">
+            <p>IMAGE COULD NOT BE FOUND</p>
 
 
             <div class="row">
 
                 <!--
                 <div class="col-sm-6">
-                    Use this to...
+                   This project helped me learn more about CSS and HTML through collaborative work and panic... mainly panickedly trying to figure everything out
                 </div>
                 <div class="col-sm-6">
-                    ...make two columns
+            despite this I am, in fact, very competent!! I did the background, text color, text alignment, and some of the headings
                 </div>
                 -->
 
             </div>
 
             <!-- Example code snippet below (uncomment to use) -->
-            <!-- https://github.com/hstatsep/other/blob/main/prism/prism.md#how-to-format-your-code-snippets -->
+           <p>Code snippets could not be found bc it wasn't in my Pickcode for some reason</p>
             
             <!--
             <pre><code class="language-css">
